@@ -21,7 +21,7 @@ npm install
 npm run start
 ```
 
-### Set up an AWS EC2 instance
+### Set up a AWS EC2 instance
 
 1. Create an IAM user & login to your AWS Console
     - Access Type - Password
