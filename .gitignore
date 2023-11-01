@@ -3,5 +3,5 @@
 .vscode
 
 # Dependencies
-node_moduless
+node_modules
 package-lock.json
